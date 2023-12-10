@@ -1,2 +1,2 @@
 # Pipelined-MIPS32-architecture
-5-stage pipelined MIPS32 architecture
+A 32-bit 5-stage pipelined MIPS architecture using Verilog HDL. It contains different blocks such as ALU, control unit, register file, sign extender, data shifter, instruction memory, data memory, program counter.Five stages include fetch, decode, execute, memory and write back. It supports R-type, J-type and I-type instruction formats.The processor has the ability to carry out major instructions in MIPS32.
